@@ -17,8 +17,8 @@ public class TestAutomation {
     public HomePageElement hpe;
     public LoginElement login_element;
     public SearchElement search_element = new SearchElement();
-    public static String email = "nazlcanisler@gmail.com";
-    public static String password = "130898Nn";
+    public static String email = "username";
+    public static String password = "password";
 
 
     @Before
